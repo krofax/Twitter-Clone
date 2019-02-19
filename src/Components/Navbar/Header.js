@@ -11,7 +11,7 @@ class Navbar extends Component {
                             <li className='feeds'>#</li>
                             <li>Notification</li>
                             <li>Message</li>
-                            <li></li>
+                            <li>Search Bar</li>
                             <li></li>
                         </ul>
                     </nav>
