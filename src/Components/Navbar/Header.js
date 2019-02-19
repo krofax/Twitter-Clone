@@ -12,7 +12,7 @@ class Navbar extends Component {
                             <li>Notification</li>
                             <li>Message</li>
                             <li>Search Bar</li>
-                            <li></li>
+                            <li>Profile</li>
                         </ul>
                     </nav>
                 </header>
