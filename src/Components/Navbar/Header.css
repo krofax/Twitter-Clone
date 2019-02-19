@@ -1,0 +1,19 @@
+:root{
+    --night:#141d26;
+    --day: #fff;
+    --logosize: 3rem;
+}
+
+body{
+    background: var(--night);
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.feeds{
+    text-decoration: italics;
+    font-size: var(--logosize);
+}
