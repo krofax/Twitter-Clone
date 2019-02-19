@@ -7,9 +7,9 @@ class Navbar extends Component {
                 <header className='header'>
                     <nav>
                         <ul>
-                            <li>kklzkcl</li>
+                            <li>Home</li>
                             <li className='feeds'>#</li>
-                            <li>klskdlkd</li>
+                            <li>Notification</li>
                             <li></li>
                             <li></li>
                             <li></li>
