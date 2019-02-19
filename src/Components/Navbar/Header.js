@@ -10,7 +10,7 @@ class Navbar extends Component {
                             <li>Home</li>
                             <li className='feeds'>#</li>
                             <li>Notification</li>
-                            <li></li>
+                            <li>Message</li>
                             <li></li>
                             <li></li>
                         </ul>
